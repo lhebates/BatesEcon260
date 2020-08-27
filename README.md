@@ -10,4 +10,5 @@ Assistant Professor of Economics
 
 Bates College
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhebates/BatesEcon260/master)
 
