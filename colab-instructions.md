@@ -13,7 +13,7 @@ Welcome to the Colab setup guide for Intermediate Microeconomics. Follow these s
 1. On Colab's homepage click File → Open notebook (or use the "Open notebook" dialog if it appears automatically).  
 2. Select the **GitHub** tab.  
 3. In the search box type the repository name: `lhebates/BatesEcon260` and press Enter.  
-4. Click the repository name when it appears, then navigate to the `materials` folder.  
+4. Click the repository name when it appears, then scroll down to see the class notebooks (`.ipynb` files).
 5. Click `0.1 Intro to Jupyter Notebook.ipynb` to open it.
 
 ## Step 3 — Edit and Run
